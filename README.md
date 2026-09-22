@@ -1,3 +1,4 @@
+
 # python-password-generator
 A secure and modern GUI-based Random Password Generator built using Python and Tkinter.
 # Simple GUI Password Generator 🔑
@@ -44,6 +45,8 @@ python3 pass.py
 ---
 
 ## 🧠 Yeh Kaam Kaise Karta Hai?
+
+<img width="1016" height="550" alt="Screenshot_2026-09-21_23_33_57" src="https://github.com/user-attachments/assets/033e258e-defc-4bb8-8ae3-1c14e15f1779" />
 
 Maine isme Python ke do inbuilt modules use kiye hain—`random` aur `string`. 
 Jab aap button dabate hain, toh program aapke select kiye gaye options (letters, numbers, symbols) ko ek badi list me mila deta hai. Phir computer bina kisi insani dimag ke, completely random tarike se har position ke liye alag character uthata hai aur unhe jodkar ek solid password screen par display kar deta hai.
